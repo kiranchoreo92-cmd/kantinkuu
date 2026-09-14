@@ -17,4 +17,4 @@ $result = $user->register(
 
 if ($result) {
     echo "Register berhasil!";
-}
+}  
